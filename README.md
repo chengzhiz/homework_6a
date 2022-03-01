@@ -10,4 +10,3 @@ Bonus points files: (two more product detail pages)
 
 1. drinkdetail2.html
 2. drinkdetail3.html
-3. haha.html
