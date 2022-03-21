@@ -5,7 +5,7 @@
 
 @import url("https://fonts.googleapis.com/css?family=Merriweather:900|Roboto:400,300");
 
-.screen a {
+.screen{
   display: contents;
   text-decoration: none;
 }
